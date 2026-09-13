@@ -24,7 +24,7 @@
 
 ## 🚀 Personal & Highlighted Projects
 
-### 📱 [Android OCR Business Card Contacts Manager](https://github.com/ishangidwani/android-ocr-card-contacts)
+### 📱 Android OCR Business Card Contacts Manager
 > **On-Device ML Android App**
 - Built an Android app using **Kotlin**, **CameraX**, and **ML Kit Text Recognition** that scans physical business cards with **95% OCR accuracy**.
 - Automatically extracts names, phone numbers, and emails to auto-populate contact input fields, saving time and reducing screen time.
@@ -32,21 +32,21 @@
 
 ---
 
-### 🩺 [Clinic Management Application](https://github.com/ishangidwani/clinic-management-app)
+### 🩺 Clinic Management Application
 > **Doctor Appointment & Patient Queue App**
 - Cross-platform mobile app built with **Flutter**, **Cubit**, **GetIt**, and **GoRouter**.
 - Powered by **Supabase** real-time database, authentication, and cloud storage for seamless doctor-patient queue booking.
 
 ---
 
-### 🏗️ [Low-Code / No-Code Visual Engine](https://github.com/ishangidwani/low-code-no-code-engine)
+### 🏗️ Low-Code / No-Code Visual Engine
 > **Enterprise Drag & Drop Platform (Crisil Innovation)**
 - Developed a visual reporting & dashboard builder with **20+ dynamic UI controls**, query binding, and custom event logic.
 - Built custom 3D data pivoting algorithms using Angular, D3.js, FusionCharts, and Ag-Grid, reducing software development time by **60%**.
 
 ---
 
-### 💬 [Real-Time Scalable Chat Engine](https://github.com/ishangidwani/spring-websocket-chat-server)
+### 💬 Real-Time Scalable Chat Engine
 > **High-Concurrency Messaging Server**
 - High-throughput messaging server built with **Java Spring Boot**, **WebSockets**, and **Redis Pub/Sub**.
 - Architected with switchable SQL (PostgreSQL) and NoSQL (MongoDB) persistence layers with Docker deployment specs.
